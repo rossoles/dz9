@@ -1,0 +1,15 @@
+C:\Users\Рус\Desktop\dz9\64\bin\Debug\net7.0\64.exe
+C:\Users\Рус\Desktop\dz9\64\bin\Debug\net7.0\64.deps.json
+C:\Users\Рус\Desktop\dz9\64\bin\Debug\net7.0\64.runtimeconfig.json
+C:\Users\Рус\Desktop\dz9\64\bin\Debug\net7.0\64.dll
+C:\Users\Рус\Desktop\dz9\64\bin\Debug\net7.0\64.pdb
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.csproj.AssemblyReference.cache
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.AssemblyInfoInputs.cache
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.AssemblyInfo.cs
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.csproj.CoreCompileInputs.cache
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.dll
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\refint\64.dll
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.pdb
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\64.genruntimeconfig.cache
+C:\Users\Рус\Desktop\dz9\64\obj\Debug\net7.0\ref\64.dll

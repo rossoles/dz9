@@ -1,0 +1,15 @@
+C:\Users\Рус\Desktop\dz9\68\bin\Debug\net7.0\68.exe
+C:\Users\Рус\Desktop\dz9\68\bin\Debug\net7.0\68.deps.json
+C:\Users\Рус\Desktop\dz9\68\bin\Debug\net7.0\68.runtimeconfig.json
+C:\Users\Рус\Desktop\dz9\68\bin\Debug\net7.0\68.dll
+C:\Users\Рус\Desktop\dz9\68\bin\Debug\net7.0\68.pdb
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.csproj.AssemblyReference.cache
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.AssemblyInfoInputs.cache
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.AssemblyInfo.cs
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.csproj.CoreCompileInputs.cache
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.dll
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\refint\68.dll
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.pdb
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\68.genruntimeconfig.cache
+C:\Users\Рус\Desktop\dz9\68\obj\Debug\net7.0\ref\68.dll
